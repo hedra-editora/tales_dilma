@@ -1,0 +1,14 @@
+\select@language {brazilian}
+\select@language {brazilian}
+\contentsline {chapter}{Crise real e \emph {pequena hist\IeC {\'o}ria}}{9}
+\contentsline {chapter}{Pol\IeC {\'\i }tica e m\IeC {\'a}gica}{13}
+\contentsline {chapter}{Dilma Rousseff: personalidade antipol\IeC {\'\i }tica}{17}
+\contentsline {chapter}{Que horas s\IeC {\~a}o?}{27}
+\contentsline {chapter}{A esquerda contra os bancos}{31}
+\contentsline {chapter}{A esquerda contra a esquerda}{39}
+\contentsline {chapter}{Anticomunismo, antipetismo}{45}
+\contentsline {chapter}{Economia pol\IeC {\'\i }tica: teoria tradicional}{55}
+\contentsline {chapter}{Nova direita: Eduardo Cunha}{59}
+\contentsline {chapter}{Nova pol\IeC {\'\i }tica: judici\IeC {\'a}rio}{69}
+\contentsline {chapter}{Tradi\IeC {\c c}\IeC {\~a}o, corrup\IeC {\c c}\IeC {\~a}o e PT}{77}
+\contentsline {chapter}{Entropia, anomia e for\IeC {\c c}as reais da poss\IeC {\'\i }vel nova ordem}{81}
