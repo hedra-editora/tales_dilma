@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.6)  26 AUG 2015 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.6)  26 AUG 2015 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,7 +605,7 @@ File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks29
 \c@AM@survey=\count149
 \AM@templatesizebox=\box30
-) (./LULISMO.aux (./CREDITOS.aux) (./PRETAS.aux) (./TEXTO.aux))
+) (./LULISMO.aux (./CREDITOS.aux) (./PRETAS.aux) (./TEXTO.aux) (./COLOFAO.aux))
 \openout1 = `LULISMO.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -764,10 +764,6 @@ LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <10> not available
 (Font)              Font shape `T1/mwbj/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <7> not available
 (Font)              Font shape `T1/mwbj/b/n' tried instead on input line 34.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 48.
-
 
 Overfull \hbox (19.8585pt too wide) in paragraph at lines 48--48
 []\T1/mwbj/m/n/7 L947 [] 
@@ -935,11 +931,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ])
-[84]
-
-Package lastpage Warning: Rerun to get the references right on input line 62.
-
-
+[84] 
 AED: lastpage setting LastPage
 \tf@toc=\write4
 \openout4 = `LULISMO.toc'.
@@ -949,34 +941,29 @@ AED: lastpage setting LastPage
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.9pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 10372 strings out of 493105
- 148949 string characters out of 6137073
- 280887 words of memory out of 5000000
- 13171 multiletter control sequences out of 15000+600000
- 134498 words of font info for 419 fonts, out of 8000000 for 9000
+ 10393 strings out of 493105
+ 149150 string characters out of 6137073
+ 282800 words of memory out of 5000000
+ 13173 multiletter control sequences out of 15000+600000
+ 135611 words of font info for 432 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,12n,39p,373b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/latxfont/lcirclew.pfb></usr/share/texmf/fonts/type1/monotype/walb
-aum/mwbb8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/mwbr8a.pfb></usr/
-share/texmf/fonts/type1/monotype/walbaum/mwbr8x.pfb></usr/share/texmf/fonts/typ
-e1/monotype/walbaum/mwbri8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/
-mwbri8x.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LULISMO.pdf (84 pages, 310770 bytes).
+aum/mwbb8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/mwbb8x.pfb></usr/
+share/texmf/fonts/type1/monotype/walbaum/mwbr8a.pfb></usr/share/texmf/fonts/typ
+e1/monotype/walbaum/mwbr8x.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/m
+wbri8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/mwbri8x.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb>
+Output written on LULISMO.pdf (84 pages, 314385 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
+ 318 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  56833 words of extra memory for PDF output out of 61914 (max. 10000000)
 
