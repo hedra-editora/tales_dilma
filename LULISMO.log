@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.6)  17 AUG 2015 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.6)  26 AUG 2015 10:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,34 +605,34 @@ File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks29
 \c@AM@survey=\count149
 \AM@templatesizebox=\box30
-) (./LULISMO.aux (./CREDITOS.aux) (./PRETAS.aux) (./TEXTO.aux) (./COLOFAO.aux))
+) (./LULISMO.aux (./CREDITOS.aux) (./PRETAS.aux) (./TEXTO.aux))
 \openout1 = `LULISMO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Try loading font information for T1+mwbj on input line 9.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for T1+mwbj on input line 12.
 
 (/usr/share/texmf/tex/latex/monotype/walbaum/t1mwbj.fd
 File: t1mwbj.fd 2015/02/07 Fontinst v1.933 font definitions for T1/mwbj.
 )
-LaTeX Info: Redefining \microtypecontext on input line 9.
+LaTeX Info: Redefining \microtypecontext on input line 12.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -652,7 +652,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 9.
+(lastpage)             ! on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -710,7 +710,7 @@ e
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \AtBeginShipoutBox=\box32
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 18.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -727,10 +727,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <13.5> not available
-(Font)              size <14.4> substituted on input line 21.
+(Font)              size <14.4> substituted on input line 24.
 
 [2]
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 32.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -765,6 +765,10 @@ LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <10> not available
 LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <7> not available
 (Font)              Font shape `T1/mwbj/b/n' tried instead on input line 34.
 
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 48.
+
+
 Overfull \hbox (19.8585pt too wide) in paragraph at lines 48--48
 []\T1/mwbj/m/n/7 L947 [] 
  []
@@ -790,122 +794,152 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [6
 
 ]
-(./LULISMO.toc [7]) [8]
+(./LULISMO.toc
+LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/mwbj/b/n' tried instead on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 3.
+) [7] [8
+
+] [9] [10]
 \openout2 = `TEXTO.aux'.
 
- (./TEXTO.tex [9
+ (./TEXTO.tex [11
 
+] [12]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 78.
 
-] [10] [11] [12] [13
+Underfull \vbox (badness 1028) has occurred while \output is active []
 
-] [14] [15] [16]
-[17
+ [13]
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
-Underfull \hbox (badness 1199) in paragraph at lines 227--244
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+[17] [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 1199) in paragraph at lines 266--284
 []\T1/mwbj/m/n/13.5 Eram tec-no-cra-tas de es-querda, e Dilma era, até
  []
 
-[18] [19] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-[][] [][]\T1/mwbj/m/n/10 (+20) http://oglobo.globo.com/tecnologia/dilma-diz-que
--cabera-ao-cade-
- []
-
-[21] [22] [23] [24] [25] [26
-
-] [27] [28] [29] [30
-
-] [31]
+[21] [22] [23] [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
+ [25]
+[26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
-[34] [35] [36] [37] [38
+ [27]
+Underfull \vbox (badness 4792) has occurred while \output is active []
 
-] [39] [40] [41] [42] [43] [44
-
-] [45] [46]
+ [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
-[48] [49] [50] [51] [52] [53] [54] [55
-
-] [56] [57] [58
-
-] [59] [60] [61] [62]
-[63] [64] [65]
+ [29]
+[30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66]
-[67] [68
-
-] [69] [70] [71]
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1438
-[][] [][]\T1/mwbj/m/n/10 (+20) http://odia.ig.com.br/noticia/rio-de-janeiro/201
-5-08-08/almirante-
- []
-
-[72] [73] [74] [75] [76
-
-] [77] [78] [79] [80] [81
-
-] [82] [83]
+ [31]
+[32] [33] [34] [35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84]
-[85] [86]
-LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/mwbj/b/n' tried instead on input line 1765.
- [87] [88] [89]
-Underfull \hbox (badness 1178) in paragraph at lines 1832--1833
-\T1/mwbj/m/it/13.5 Rous-seff, em março, e a ter-ceira, em
- []
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 1833.
+ [37]
+[38] [39]
+Underfull \vbox (badness 2951) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.5> not available
-(Font)              size <14.4> substituted on input line 1833.
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [41]
+[42] [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.44995> not available
-(Font)              size <9> substituted on input line 1833.
+ [44]
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [46]
+[47] [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.5> not available
-(Font)              size <14.4> substituted on input line 1833.
+ [49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <9.44995> not available
-(Font)              size <9> substituted on input line 1833.
+ [51]
+[52] [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [54]
+[55] [56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.5> not available
-(Font)              size <14.4> substituted on input line 1833.
+ [57]
+[58] [59] [60]
+Underfull \vbox (badness 4792) has occurred while \output is active []
 
+ [61]
+[62] [63] [64] [65] [66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <9.44995> not available
-(Font)              size <9> substituted on input line 1833.
+ [67]
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <13.5> on input line 1833.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.44995> on input line 1833.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.75> on input line 1833.
-) [90]
+ [68]
+[69] [70]
+Underfull \vbox (badness 3690) has occurred while \output is active []
+
+ [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+[73] [74] [75] [76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+[78]
+LaTeX Font Info:    Font shape `T1/mwbj/bx/n' in size <13.5> not available
+(Font)              Font shape `T1/mwbj/b/n' tried instead on input line 1851.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
+ [80]
+[81]) [82]
 \openout2 = `COLOFAO.aux'.
 
  (./COLOFAO.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [91
+ [83
 
 
 ])
-[92] 
+[84]
+
+Package lastpage Warning: Rerun to get the references right on input line 62.
+
+
 AED: lastpage setting LastPage
 \tf@toc=\write4
 \openout4 = `LULISMO.toc'.
@@ -915,27 +949,34 @@ AED: lastpage setting LastPage
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.9pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 10275 strings out of 493105
- 148019 string characters out of 6137073
- 283974 words of memory out of 5000000
- 13156 multiletter control sequences out of 15000+600000
- 109634 words of font info for 339 fonts, out of 8000000 for 9000
+ 10372 strings out of 493105
+ 148949 string characters out of 6137073
+ 280887 words of memory out of 5000000
+ 13171 multiletter control sequences out of 15000+600000
+ 134498 words of font info for 419 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,12n,37p,373b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,12n,39p,373b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texmf/fonts/type1/monoty
-pe/walbaum/mwbb8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/mwbr8a.pfb
-></usr/share/texmf/fonts/type1/monotype/walbaum/mwbr8x.pfb></usr/share/texmf/fo
-nts/type1/monotype/walbaum/mwbri8a.pfb></usr/share/texmf/fonts/type1/monotype/w
-albaum/mwbri8x.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LULISMO.pdf (92 pages, 299931 bytes).
+ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/latxfont/lcirclew.pfb></usr/share/texmf/fonts/type1/monotype/walb
+aum/mwbb8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/mwbr8a.pfb></usr/
+share/texmf/fonts/type1/monotype/walbaum/mwbr8x.pfb></usr/share/texmf/fonts/typ
+e1/monotype/walbaum/mwbri8a.pfb></usr/share/texmf/fonts/type1/monotype/walbaum/
+mwbri8x.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on LULISMO.pdf (84 pages, 310770 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 231 compressed objects within 3 object streams
+ 314 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 59393 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 56833 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -1,14 +1,15 @@
 \select@language {brazilian}
 \select@language {brazilian}
-\contentsline {chapter}{Crise real e \emph {pequena hist\IeC {\'o}ria}}{9}
-\contentsline {chapter}{Pol\IeC {\'\i }tica e m\IeC {\'a}gica}{13}
-\contentsline {chapter}{Dilma Rousseff: personalidade antipol\IeC {\'\i }tica}{17}
-\contentsline {chapter}{Que horas s\IeC {\~a}o?}{27}
-\contentsline {chapter}{A esquerda contra os bancos}{31}
-\contentsline {chapter}{A esquerda contra a esquerda}{39}
-\contentsline {chapter}{Anticomunismo, antipetismo}{45}
-\contentsline {chapter}{Economia pol\IeC {\'\i }tica: teoria tradicional}{55}
-\contentsline {chapter}{Nova direita: Eduardo Cunha}{59}
-\contentsline {chapter}{Nova pol\IeC {\'\i }tica: judici\IeC {\'a}rio}{69}
-\contentsline {chapter}{Tradi\IeC {\c c}\IeC {\~a}o, corrup\IeC {\c c}\IeC {\~a}o e PT}{77}
-\contentsline {chapter}{Entropia, anomia e for\IeC {\c c}as reais da poss\IeC {\'\i }vel nova ordem}{81}
+\contentsline {part}{Dilma Rousseff e o \'odio pol\'itico}{9}
+\contentsline {section}{Crise real e \emph {pequena hist\IeC {\'o}ria}}{11}
+\contentsline {section}{Pol\IeC {\'\i }tica e m\IeC {\'a}gica}{15}
+\contentsline {section}{Dilma Rousseff: \emph {anti-pr\IeC {\'\i }ncipe}}{20}
+\contentsline {section}{Que horas s\IeC {\~a}o?}{28}
+\contentsline {section}{A esquerda contra os bancos}{31}
+\contentsline {section}{A esquerda contra a esquerda}{37}
+\contentsline {section}{Anticomunismo, antipetismo}{41}
+\contentsline {section}{Economia pol\IeC {\'\i }tica: teoria tradicional}{51}
+\contentsline {section}{Nova direita: Eduardo Cunha}{53}
+\contentsline {section}{Nova pol\IeC {\'\i }tica: judici\IeC {\'a}rio}{61}
+\contentsline {section}{Tradi\IeC {\c c}\IeC {\~a}o, corrup\IeC {\c c}\IeC {\~a}o e \textsc {\MakeTextLowercase {PT}}}{68}
+\contentsline {section}{Entropia, anomia e nova ordem}{72}
