@@ -20,7 +20,18 @@
 \setcounter{tocdepth}{1}     % amplitude da presença das partes no índice
 \setcounter{secnumdepth}{-2} % amplitude da numeração das partes
 
-\fontsize{10.5pt}{14.2pt}\selectfont
+\makeatletter
+
+\def\footnoterule{\kern-8\p@
+    \hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
+
+%\renewcommand{\foottextfont}{\small}
+%\footmarkstyle{\normalfont{\raisebox{3pt}{\tiny#1}}}
+%\def\@makefnmark#1{{\tiny \raisebox{3pt}{\@thefnmark}}}
+\skip\footins=10mm\@plus3mm\@minus2mm
+\makeatother
+
+%\fontsize{10.5pt}{14.2pt}\selectfont
 
 \begin{document}
 
