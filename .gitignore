@@ -7,7 +7,6 @@ LIVRO.fdb_latexmk
 *.idx
 *.ind
 *.ilg
-*_latexmk 
 *.fls 
 *.tui 
 *.4ct 
