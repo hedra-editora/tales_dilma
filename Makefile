@@ -1,6 +1,9 @@
+LIVRO = TALES_DILMA
+
 all:
 	latexmk -xelatex -interaction=nonstopmode LIVRO.tex
-	evince LIVRO.pdf
+	cp LIVRO.pdf ${LIVRO}.pdf
+	evince ${LIVRO}.pdf
 erros:
 	-grep --color=auto "LaTeX Error" LIVRO.log
 	-grep --color=auto -A 3 "Undefined" LIVRO.log
