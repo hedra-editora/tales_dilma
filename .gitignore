@@ -21,6 +21,7 @@ LIVRO.fdb_latexmk
 *.tmp 
 *.idv 
 *.opf
+capa/
 img/
 originais/
 LIVRO.pdf
